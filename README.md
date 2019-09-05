@@ -106,6 +106,7 @@ If issue in Composer GUI with inventory not loading:
 
 ### Post install tasks (done with Ansible playbooks/roles):
 `subscription-manager register`
+
 `subscription-manager attach --pool=<poolID>`
 
 Assign and remediate OpenSCAP OSPP security policy:
