@@ -110,6 +110,7 @@ If issue in Composer GUI with inventory not loading:
 `subscription-manager attach --pool=<poolID>`
 
 Assign and remediate OpenSCAP OSPP security policy:
+
 `oscap xccdf eval --remediate --profile xccdf_org.ssgproject.content_profile_ospp --results scan.xml /usr/share/xml/scap/ssg/content/ssg-rhel8-ds.xml`
 
 `insights-client --register`
