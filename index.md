@@ -70,7 +70,7 @@ Create a new blueprint and select the following packages:
 * scap-security-guide
 * platform-python
 
-###Customizaion of composer blueprint:
+### Customization of composer blueprint:
 Export blueprint:
 `composer-cli blueprints save <blueprint name>`
 
