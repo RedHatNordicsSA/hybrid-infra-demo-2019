@@ -37,6 +37,8 @@ Create rheldemo user and generate ssh key-pair:
 
 `passwd rheldemo`(use rheldemo as password)
 
+`usermod -aG wheel rheldemo`
+
 `sudo su - rheldemo`
 
 `ssh-keygen`
