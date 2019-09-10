@@ -1,6 +1,6 @@
-name = "app2001"
+name = "rhel8-gm"
 description = "RHEL8, python, oscap"
-version = "0.0.3"
+version = "1.0.0"
 modules = []
 groups = []
 
@@ -40,5 +40,5 @@ shell = "/usr/bin/bash"
 groups = ["users", "wheel"]
 
 [customizations.services]
-enabled = ["sshd", "cockpit.socket", "httpd"]
+enabled = ["sshd", "cockpit.socket"]
 disabled = ["postfix", "telnetd"]
