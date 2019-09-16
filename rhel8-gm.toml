@@ -35,7 +35,7 @@ name = "rheldemo"
 description = "Red Hat Nordics"
 password = "$6$qgtDGzzlmyqGnCOB$FA58kD2VZ1lmPB3rYib7jtH0a5tByi2Kwqp29Zw7rySqV.jnMAK9qbWUZ.OsDvO/jljWActCC9pmBiXBRZdAa/"
 key = "ssh-rsa <key> root@somehost.local"
-home = "/home/rhdemo/"
+home = "/home/rheldemo/"
 shell = "/usr/bin/bash"
 groups = ["users", "wheel"]
 
