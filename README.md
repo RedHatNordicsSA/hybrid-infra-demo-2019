@@ -93,7 +93,7 @@ shell = "/usr/bin/bash"
 groups = ["users", "wheel"]
 
 [customizations.services]
-enabled = ["sshd", "cockpit.socket", "httpd"]
+enabled = ["sshd", "cockpit.socket"]
 disabled = ["postfix", "telnetd"]
 ```
 
