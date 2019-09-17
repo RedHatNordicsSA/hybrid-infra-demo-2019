@@ -10,7 +10,7 @@ Demonstrate how a base image can be deployed in an automated way to public cloud
 
 
 
-## RHEL8 virutal machine with composer
+## RHEL8 virtual machine with composer
 
 **System requirements:**
 
