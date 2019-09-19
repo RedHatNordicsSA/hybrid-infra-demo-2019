@@ -43,7 +43,7 @@ Create rheldemo user and generate ssh key-pair:
 
 `ssh-keygen`
 
-The public key stored in /home/rheldemo/.ssh/id_rsa.pub should your composer-toml file, and the private key stored in /home/rheldemo/.ssh/id_rsa should be added as a credential in Ansible Tower.
+The public key stored in /home/rheldemo/.ssh/id_rsa.pub should be used in your composer-toml file, and the private key stored in /home/rheldemo/.ssh/id_rsa should be added as a machine credential in Ansible Tower.
 
 Enable and start Cockpit:
 
