@@ -1,4 +1,4 @@
-# RHEL 8 demo Red Hat Forum 2019
+# RHEL 8 demo Red Hat Forum 2019 (work in progress)
 
 
 
